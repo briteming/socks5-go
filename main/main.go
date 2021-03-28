@@ -6,7 +6,7 @@ import (
 	"log"
 	"net"
 	"os"
-	"socks5-go"
+	"github.com/briteming/socks5-go"
 )
 
 var (
